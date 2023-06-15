@@ -19,7 +19,7 @@ En el archivo `main.ipynb` encontrarás:
 2. Clona **tu** repositorio a tu local.
 3. Abre el repositorio clonado y manos a la obra con el challenge! 🤓
 4. Una vez finalizado recuerda hacer tu Pull Request antes del límite de la entrega para poder valorar tu trabajo.⏳
-5. ⚠⚠⚠💣 Límite de entrega: **Lunes 19 a las 18:00h **💣⚠⚠⚠
+5. ⚠⚠⚠💣 Límite de entrega: **Lunes 19 a las 18:00h** 💣⚠⚠⚠
 
 #### *Recomendaciones:*
 - 💾Recuerda hacer commits con frecuencia para no perder tu progreso.
